@@ -1,0 +1,4 @@
+data_xy_month.csv
+__pycache__/
+*.pyc
+.DS_Store
